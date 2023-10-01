@@ -3,6 +3,8 @@ package com.ryong.hellospring.service;
 import com.ryong.hellospring.domain.Member;
 import com.ryong.hellospring.repository.MemberRepository;
 import com.ryong.hellospring.repository.MemoryMemberRepository;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.Optional;
