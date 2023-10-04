@@ -1,7 +1,6 @@
 package com.ryong.hellospring.repository;
 
 import com.ryong.hellospring.domain.Member;
-import org.springframework.stereotype.Repository;
 
 import java.util.*;
 

@@ -1,7 +1,5 @@
 package com.ryong.hellospring.controller;
 
-import javax.swing.*;
-
 public class MemberForm {
     private String name;
 
