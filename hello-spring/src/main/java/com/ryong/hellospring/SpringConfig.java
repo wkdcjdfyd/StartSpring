@@ -1,5 +1,6 @@
 package com.ryong.hellospring;
 
+import com.ryong.hellospring.aop.TimeTraceAop;
 import com.ryong.hellospring.repository.JDBCTemplateMemberRepository;
 import com.ryong.hellospring.repository.JpaMemberRepository;
 import com.ryong.hellospring.repository.MemberRepository;
